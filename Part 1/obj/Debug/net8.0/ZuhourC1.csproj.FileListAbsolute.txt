@@ -1,0 +1,14 @@
+C:\Visual Studio AOL\1\ZuhourC1\bin\Debug\net8.0\ZuhourC1.exe
+C:\Visual Studio AOL\1\ZuhourC1\bin\Debug\net8.0\ZuhourC1.deps.json
+C:\Visual Studio AOL\1\ZuhourC1\bin\Debug\net8.0\ZuhourC1.runtimeconfig.json
+C:\Visual Studio AOL\1\ZuhourC1\bin\Debug\net8.0\ZuhourC1.dll
+C:\Visual Studio AOL\1\ZuhourC1\bin\Debug\net8.0\ZuhourC1.pdb
+C:\Visual Studio AOL\1\ZuhourC1\obj\Debug\net8.0\ZuhourC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\ZuhourC1\obj\Debug\net8.0\ZuhourC1.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\ZuhourC1\obj\Debug\net8.0\ZuhourC1.AssemblyInfo.cs
+C:\Visual Studio AOL\1\ZuhourC1\obj\Debug\net8.0\ZuhourC1.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\ZuhourC1\obj\Debug\net8.0\ZuhourC1.dll
+C:\Visual Studio AOL\1\ZuhourC1\obj\Debug\net8.0\refint\ZuhourC1.dll
+C:\Visual Studio AOL\1\ZuhourC1\obj\Debug\net8.0\ZuhourC1.pdb
+C:\Visual Studio AOL\1\ZuhourC1\obj\Debug\net8.0\ZuhourC1.genruntimeconfig.cache
+C:\Visual Studio AOL\1\ZuhourC1\obj\Debug\net8.0\ref\ZuhourC1.dll
